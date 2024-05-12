@@ -9,10 +9,7 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                        Voluptatem accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et
-                        quasi architecto beatae vitae dicta sunt explicabo eaque
-                        ipsa quae ab illo.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non arcu eu massa pellentesque placerat porta non enim. Nam accumsan lacus lectus. Quisque non finibus leo, sit amet fermentum nulla. Praesent cursus odio at nisl consequat dignissim. Fusce tellus velit, imperdiet et convallis in, bibendum eget nibh. Sed vitae dignissim nisl, non tempus arcu.
                     </div>
                 </div>
                 <div className="col">
@@ -20,13 +17,12 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha,
-                            Kerala, 688006
+                            XYZ New Delhi , 11047
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
-                        <div className="text">Phone: 0471 272 0261</div>
+                        <div className="text">Phone: +91 123456XXXX </div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
@@ -55,8 +51,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                        JSDEVSTORE 2022 CREATED BY JS DEV. PREMIUM E-COMMERCE
-                        SOLUTIONS.
+                        ELECTO 2024 
                     </span>
                     <img src={Payment} />
                 </div>
