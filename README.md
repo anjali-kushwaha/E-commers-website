@@ -9,7 +9,7 @@ This e-commerce website project encompasses a range of essential features to enh
 1. **Home Page:** Engage users with a visually appealing and informative landing page.
 2. **About Page:** Provide insights into the brand, mission, and values.
 3. **Categories Page:** Organize products into categories such as headphones, watches, speakers, and earbuds for easy browsing.
-4. **Related Products:** Enhance user experience by displaying related products when a specific item is clicked.
+4. **Related Products:** Enhance the user experience by displaying related products when a specific item is clicked.
 5. **Footer:** Include essential links, contact information, and navigation options in the footer for accessibility.
 6. **Search Functionality:** Implement a dynamic search feature that retrieves products from the server based on user input.
 7. **Cart Section:** Enable users to add products to their cart, review items, and proceed with checkout or remove items as needed.
@@ -20,8 +20,7 @@ This e-commerce website project encompasses a range of essential features to enh
 2. **Sass CSS:** Employed to style components and ensure a visually appealing design.
 3. **JavaScript:** Used for client-side scripting and enhancing website functionality.
 
-By integrating these technologies and features, this e-commerce website aims to deliver a seamless and engaging shopping experience for users.
-## Setup and Usage
+
 
 ### Cloning the Repository
 
