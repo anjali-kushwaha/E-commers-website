@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-commers-website/static/css/main.9a989273.css",
+    "main.js": "/E-commers-website/static/js/main.fad22a2d.js",
+    "static/media/banner-img.png": "/E-commers-website/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/E-commers-website/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/E-commers-website/index.html",
+    "main.9a989273.css.map": "/E-commers-website/static/css/main.9a989273.css.map",
+    "main.fad22a2d.js.map": "/E-commers-website/static/js/main.fad22a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a989273.css",
+    "static/js/main.fad22a2d.js"
+  ]
+}
